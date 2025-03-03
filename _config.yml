@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 서울대학교 대학글쓰기2 강좌(2025년 1학기)
+description: 서울대학교 대학글쓰기2 강좌 강의자료
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://DeepWrite.github.io/2025SPRING
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/DeepWrite/2025SPRING
