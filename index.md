@@ -1,35 +1,78 @@
 ---
 title: Home
 layout: home
+description: "서울대학교 대학글쓰기2의 공식 강의자료 공유 및 학습 지원 사이트입니다."
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 논증적 글쓰기와 연구 기반 글쓰기
+{: .fs-9 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+서울대학교 대학글쓰기2 강의에서는 논증적 글쓰기의 기초부터 연구 기반 글쓰기까지 체계적인 학습을 진행합니다.
+{: .fs-6 .fw-300 }
 
-More specifically, the created site:
+[강의 자료 바로가기](#강의-자료-접근-방법){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[GitHub 저장소 보기][강의 GitHub 저장소]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+{: .warning }
+> 이 문서는 2025년 1학기 대학글쓰기2 강의의 공식 가이드입니다. 강의 일정, 과제 제출 방식, 출석 기준 등은 [강의 계획서](#강의-계획서)에서 확인할 수 있습니다.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## 강의 개요
 
-To get started with creating a site, simply:
+서울대학교 대학글쓰기2는 논증적 글쓰기와 연구 기반 글쓰기를 목표로 합니다. 본 강의는 이론적 강의와 실습을 병행하며, 수업 중 작성한 글에 대한 상호 코멘트를 포함합니다.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- **강의명:** 대학글쓰기2
+- **학기:** 2025년 1학기
+- **강의 목표:** 논증적 글쓰기 능력 향상 및 연구 기반 학술 글쓰기 훈련
+- **운영 방식:** 강의 + 실습 + 피드백 중심
+- **강의자료 공유:** [Google Drive 링크](#) (등록된 학생만 접근 가능)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## 강의 계획서 및 일정
 
-----
+강의는 15주간 30차시로 진행되며, 주요 일정은 다음과 같습니다:
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+- **1주차:** 오리엔테이션 및 예비 글쓰기 과제 제출
+- **2~6주차:** 논증적 글쓰기 개념 학습 및 실습
+- **7주차:** 중간고사 (동영상 강좌 수강 필수)
+- **8~12주차:** 연구 기반 논문 작성 연습
+- **13주차:** 초고 작성 주간
+- **14~15주차:** 기말 논문 코멘트 및 최종 제출
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[강의 계획서 전체 보기](#)
+
+## 강의 자료 접근 방법
+
+### 1. Google Drive 및 ETL 활용
+- 강의자료는 ETL의 강의 계획서 탭에서 확인할 수 있습니다.
+- 과제 제출은 Google Drive에서 작성 후 ETL에 업로드해야 합니다.
+
+### 2. 구글 계정 등록 방법
+1. ETL → "구글 계정 조사" 탭 클릭
+2. Google Form에서 본인의 **구글 이메일 입력**
+3. 수강반 선택 (예: 사회과학 글쓰기 005, 011 등)
+4. 학번 및 이름 입력 후 제출
+
+### 3. 과제 작성 및 제출 절차
+1. ETL → "구글 폴더" 탭 이동
+2. 개인별 폴더에서 문서 작성
+3. ETL 과제 제출함에 업로드 (마감 시간 준수 필수)
+
+## 예비 글쓰기 과제 안내
+
+- **제출 기한**: 3월 10일 23:59까지
+- **주어진 3가지 주제 중 선택**
+  1. 인공지능과 저작권 문제
+  2. 창의성이란 무엇인가?
+  3. 치매 환자의 의사 결정 번복 문제
+- **분량**: 1800~2000자 (440~500단어 기준)
+- **최대 2회 제출 가능 (수정 불가)**
+
+✅ **글자 수 및 단어 수 기준 준수 필수**
+✅ **반론 및 재반박 포함하여 논증적 글쓰기**
+✅ **ETL에서 온라인 작성 및 제출**
+✅ **제출 마감 후 수정 불가 (2회 제출 가능)**
+
+{: .note }
+> 강의자료 사이트 및 ETL 내 자료는 지속적으로 업데이트됩니다. 최신 정보는 ETL을 통해 확인하세요.
