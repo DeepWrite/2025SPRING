@@ -51,7 +51,7 @@ permalink: /lectures/week1-1/
 
 ## 결석 및 공결 처리
 
-- [결석 및 공결 처리](/attendance)
+- [결석 및 공결 처리](/attendance.md)
 
 ## **1. 질문 방법**  
   
