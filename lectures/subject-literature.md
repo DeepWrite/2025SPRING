@@ -18,7 +18,7 @@ permalink: /lectures/subject-literature/
 
 ---
 
-{:toc}
+{:.toc}
 
 # 분야별
 

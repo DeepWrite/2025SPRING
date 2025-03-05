@@ -8,7 +8,7 @@ permalink: /lectures/subject-literature-eng/
 
 **본 목록은 chatGPT를 통해 산출하였으며, 오류와 중복이 있습니다.**
 
-{:toc}
+{:.toc}
 
 # 분야별
 
