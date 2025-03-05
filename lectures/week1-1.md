@@ -21,7 +21,7 @@ permalink: /lectures/week1-1/
 
 - **1주차:** 오리엔테이션, 논증적 글쓰기에 대한 이론적 이해, 1차 조편성
 - **2~7주차:** 논증적 글쓰기 개념 학습 및 실습
-  - 2주차: 요약 연습 1
+  - 2주차: 요약 연습
   - 3주차: 논제 및 논증 구성 연습
   - 4주차: 쟁점 및 딜레마 찾기
   - 5주차: 요약 연습 2
@@ -32,7 +32,7 @@ permalink: /lectures/week1-1/
   - 11-12주차: 초고 작성 주간
   - 13~15주차: 기말 논문 교수자 코멘트(논증) 및 최종 제출
 
-![차시구조]({{ site.baseurl }}/assets/images/chasi.png)
+![차시구조]({{site.baseurl}}/assets/images/chasi.png)
 
 ## 세부 계획은 2차시에 제공
 
@@ -44,7 +44,7 @@ permalink: /lectures/week1-1/
 
 ## 결석 및 공결 처리
 
-- [결석 및 공결 처리]({{ site.baseurl }}/attendance)
+- [결석 및 공결 처리]({{site.baseurl}}/attendance)
 
 ## 질문하기 유의사항
   
