@@ -1,8 +1,9 @@
 title: 2025-1학기
 description: 서울대학교 대학글쓰기2 강좌 강의자료
 theme: just-the-docs
+baseurl: "/2025SPRING"
 
-url: https://DeepWrite.github.io/2025SPRING
+url: https://DeepWrite.github.io/
 
 aux_links:
   SNU ETL: https://etl.snu.ac.kr
