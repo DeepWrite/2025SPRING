@@ -2,7 +2,7 @@
 title: 주제별 참고자료(English)
 layout: home
 nav_order: 52
-parent: 강의 내용
+parent: 강의 자료
 permalink: /lectures/subject-literature-eng/
 ---
 

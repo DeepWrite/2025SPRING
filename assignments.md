@@ -1,7 +1,7 @@
 ---
 title: 과제
 layout: home
-nav_order: 4
+nav_order: 5
 permalink: /assignments/
 ---
 

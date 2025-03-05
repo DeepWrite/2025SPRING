@@ -2,7 +2,7 @@
 title: 1주차 (2차시) 논증적 글쓰기
 layout: home
 nav_order: 2
-parent: 강의 내용
+parent: 강의 자료
 permalink: /lectures/week1-2/
 ---
 
