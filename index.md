@@ -50,9 +50,10 @@ permalink: /
 
 ### 수업조교 연락처
 
-- 최정화: jacqueline89@snu.ac.kr  
-- 김보슬: kimboseul@snu.ac.kr
+**사회글006(화목 오전 9:30)** kimboseul@snu.ac.kr (김보슬)  
+**인문글009(화목 오전 11:00)** kimboseul@snu.ac.kr (김보슬)  
+**사회글008(화목 오후 12:30)** wonyoung@snu.ac.kr (최원영)  
+**사회글011(금 9:30)** wonyoung@snu.ac.kr (최원영)  
 
-### 교수자 연락처
-
-- 손제연: ricardo@snu.ac.kr
+### 교수자 연락처  
+손제연: ricardo@snu.ac.kr
