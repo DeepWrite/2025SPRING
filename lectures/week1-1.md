@@ -32,7 +32,7 @@ permalink: /lectures/week1-1/
   - 11-12주차: 초고 작성 주간
   - 13~15주차: 기말 논문 교수자 코멘트(논증) 및 최종 제출
 
-![차시구조](/assets/images/chasi.png){: .img-fluid }
+![차시구조](/assets/images/chasi.png)
 
 ## 세부 계획은 2차시에 제공
 
