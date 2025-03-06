@@ -1,5 +1,5 @@
 ---
-title: 1주차 (2차시) 논증적 글쓰기
+title: 1주차 (2차시) 논증적 글쓰기란?
 layout: home
 nav_order: 2
 parent: 강의 자료

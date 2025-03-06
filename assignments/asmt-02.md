@@ -1,7 +1,7 @@
 ---
 title: 과제-02 논증단락 연습
 layout: home
-nav_order: 2
+nav_order: 3
 parent: 과제
 permalink: /assignments/asmt-02/
 ---

@@ -1,9 +1,9 @@
 ---
-title: 주제별 참고자료(English)
+title: English
 layout: home
 nav_order: 52
-parent: 강의 자료
-permalink: /lectures/subject-literature-eng/
+parent: 주제별 참고자료
+permalink: /topic/eng/
 ---
 
 **본 목록은 chatGPT를 통해 산출하였으며, 오류와 중복이 있습니다.**
