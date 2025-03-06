@@ -1,12 +1,12 @@
 ---
-title: 과제-02 논증단락 연습
+title: 과제-02 단문 연습
 layout: home
 nav_order: 3
 parent: 과제
 permalink: /assignments/asmt-02/
 ---
 
-# 과제-02 논증단락 연습
+# 과제-02 단문 연습
 
 ## 과제 설명
 -
@@ -30,14 +30,14 @@ permalink: /assignments/asmt-02/
 
 ```
 ---
-title: 과제-02 논증단락 연습 015 33 홍길동 
+title: 과제-02 단문 연습 015 33 홍길동 
 layout: home
 nav_order: 33
-parent: 논증단락 연습
+parent: 단문 연습
 permalink: /asmt-01/015-33
 ---
 
-# 과제-02 논증단락 연습 015 33 홍길동 
+# 과제-02 단문 연습 015 33 홍길동 
 
 요약은 이렇게 **잘** 하는 거임. 단락을 바꾸려면 줄과 줄 사이에 한 줄을 비운다.
 
