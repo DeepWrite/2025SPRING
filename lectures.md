@@ -1,5 +1,5 @@
 ---
-title: 강의 자료
+title: 강의내용
 layout: home
 nav_order: 4
 permalink: /lectures/

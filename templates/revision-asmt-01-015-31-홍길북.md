@@ -1,12 +1,12 @@
 ---
-title: 015-33 홍길동 (과제-01)
+title: (개선) 과제-01 요약 연습 015-31 홍길북
 layout: home
-nav_order: 33
-parent: 과제-01 요약 연습
-permalink: /asmt-01/015-33
+nav_order: 99
+parent: 015-31 홍길북 (과제-01)
+permalink: /asmt-01/015-31/revision
 ---
 
-# 과제-01 요약 연습 015-33 홍길동 
+# (개선) 과제-01 요약 연습 015-31 홍길북 
 
 
 ## 대상 문헌

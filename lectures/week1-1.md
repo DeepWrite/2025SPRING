@@ -2,7 +2,7 @@
 title: 1주차 (1차시) 오리엔테이션
 layout: home
 nav_order: 1
-parent: 강의 자료
+parent: 강의내용
 permalink: /lectures/week1-1/
 ---
 
