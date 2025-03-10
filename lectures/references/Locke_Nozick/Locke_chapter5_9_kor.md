@@ -1,5 +1,5 @@
 ---
-title: 로크의 재산 이론
+title: Second Treatise, ch.5/ch.9 (kor)
 layout: home
 nav_order: 02
 parent: 로크의 재산 이론과 노직의 반론
