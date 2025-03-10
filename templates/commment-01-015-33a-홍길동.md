@@ -1,5 +1,5 @@
 ---
-title: 015-33 홍길동의 코멘트a (과제-01) 
+title: 015-33 홍길동의 코멘트c (과제-01) 
 layout: home
 nav_order: 33
 parent: 015-31 홍길북 (과제-01)
