@@ -22,14 +22,14 @@ permalink: /syllabus/
   - 마크다운 문법 설명
 
 - 테이크홈 과제 
-  - **플립드 러닝(Flipped Learning)**: [논제와 논증 영상강좌와 강의자료]({{site.baseurl}}/assignments/quiz-01) 공부해 올 것(3차시에 Quiz 수행)
+  - **플립드 러닝(Flipped Learning)**: [3차시 논제와 논증 영상강좌와 강의자료 사전 학습](week02-03-01)해 올 것(3차시에 Quiz 수행)
 
 ---
 
 ### 2주차: 요약 연습 (2025.3.9 ~ 3.15)
 
 - 3차시 
-  - [2주차 (3차시) 논제와 논증](week02-03)
+  - [2주차 (3차시) 논제와 논증](week02-03-01)
   - **플립드 러닝(Flipped Learning)**: 논제와 논증 Q&A (20분)
   - **[eTL에서 Quiz-01](https://etl.snu.ac.kr) 수행** (5분)
   - **문헌독해연습**: **[로크의 재산 이론과 노직의 반론 관련 문헌들]({{site.baseurl}}/references/Locke_Nozick/)** 읽고 교수자와 함께 내용 검토. (45분)
