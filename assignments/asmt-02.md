@@ -1,7 +1,7 @@
 ---
 title: 과제-02 단문 연습
 layout: home
-nav_order: 4
+nav_order: 5
 parent: 과제
 permalink: /assignments/asmt-02/
 ---
