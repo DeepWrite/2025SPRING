@@ -6,6 +6,11 @@ parent: 과제
 permalink: /assignments/quiz-05/
 ---
 
+# Quiz-05
+
+- 마감: 
+- 내용:
+
 **6주차 플립드 러닝 강좌**
 
 ## 반론과 예상반론, 추론유형별 반론 요령
