@@ -8,7 +8,7 @@ permalink: /references/Locke_Nozick/Second-Treatise_eng/
 
 # John Locke, Second Treatise, §§ 25--51, 123--26
 
-로크의 *Two Treatises of Government* (제2정부론)의 일반적인 인용 방식
+로크의 *Two Treatises of Government* (통치론)의 일반적인 인용 방식
 
 1. **APA (7th edition)**  
    - **서지 정보 (참고문헌 목록에서)**:  
