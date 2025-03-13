@@ -8,6 +8,42 @@ permalink: /references/Locke_Nozick/Second-Treatise_eng/
 
 # John Locke, Second Treatise, §§ 25--51, 123--26
 
+로크의 *Two Treatises of Government* (제2정부론)의 일반적인 인용 방식
+
+1. **APA (7th edition)**  
+   - **서지 정보 (참고문헌 목록에서)**:  
+     Locke, J. (1689). *Two treatises of government*. (P. Laslett, Ed.). Cambridge University Press. (Original work published 1689)  
+   - **본문 인용 (직접 인용 or 파라프레이징)**:  
+     (Locke, 1689/1988, p. 123)  
+     또는 "Locke (1689/1988) argues that … (p. 123)."
+
+2. **Chicago (17th edition, Author-Date)**  
+   - **서지 정보**:  
+     Locke, John. (1689) 1988. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge: Cambridge University Press.  
+   - **본문 인용**:  
+     (Locke [1689] 1988, 123)
+
+3. **Chicago (17th edition, Notes and Bibliography)**  
+   - **각주 (Footnote)**:  
+     John Locke, *Two Treatises of Government*, ed. Peter Laslett (Cambridge: Cambridge University Press, 1988), 123.  
+   - **서지 정보**:  
+     Locke, John. *Two Treatises of Government*. Edited by Peter Laslett. Cambridge: Cambridge University Press, 1988.
+
+4. **MLA (9th edition)**  
+   - **서지 정보**:  
+     Locke, John. *Two Treatises of Government*. Edited by Peter Laslett, Cambridge University Press, 1988.  
+   - **본문 인용**:  
+     (Locke 123)  
+     또는 "Locke argues that … (123)."
+
+5. **Harvard**  
+   - **서지 정보**:  
+     Locke, J. (1689) *Two treatises of government*. Edited by P. Laslett. Cambridge: Cambridge University Press.  
+   - **본문 인용**:  
+     (Locke, 1689, p. 123)
+
+보통 Peter Laslett 편집의 *Two Treatises of Government* (Cambridge University Press, 1988)이 표준판으로 많이 사용됩니다. 사용하는 스타일 가이드에 따라 원저 연도를 병기하는지, 편집자를 표기하는지 등 세부 사항이 달라질 수 있습니다.
+
 ## **Chap. V. Of Property.**
 
 **[25]** Whether we consider natural *Reason,* which tells us, that Men, being once born, have a right to their Preservation, and consequently to Meat and Drink, and such other things, as Nature affords for their Subsistence: Or *Revelation,* which gives us an account of those Grants God made of the World to *Adam,* and to *Noah,* and his Sons, 'tis very clear, that God, as King *David* says, *Psal.* CXV. xvi. *has given the Earth to the Children of Men,* given it to Mankind in common. But this being supposed, it seems to some a very great difficulty, how any one should ever come to have a *Property* in any thing: I will not content my self to answer, That if it be difficult to make out *Property,* upon a supposition, that God gave the World to *Adam* and his Posterity in common; it is impossible that any Man, but one universal Monarch, should have any *Property,* upon a supposition, that God gave the World to *Adam,* and his Heirs in Succession, exclusive of all the rest of his Posterity. But I shall endeavour to shew, how Men might come to have a *property* in several parts of that which God gave to Mankind in common, and that without any express Compact of all the Commoners.
