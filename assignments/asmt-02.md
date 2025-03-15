@@ -15,8 +15,9 @@ permalink: /assignments/asmt-02/
 
 ## 과제 양식
 
-[asmt-02-015-33-홍길동.md](https://github.com/DeepWrite/2025SPRING/raw/main/templates/asmt-02-015-33-홍길동.md){: .btn .btn-primary }
+[(6차시) [과제-02] 단문 연습 과제 제출함](https://myetl.snu.ac.kr/){: .btn .btn-primary }
 
+- 위 **양식을 다운로드**하여 작성.
 - **파일명**과 파일 **내용**에서 `015`, `33`, `홍길동`으로 작성된 부분은 각각 자신의 `반번호`, `배정연번(01에서 27사이의 두 자리 숫자)`, `이름` 으로 변경해야 한다. 
 - **작성 전**에 미리 `찾아바꾸기` 할 것을 권장함.
 

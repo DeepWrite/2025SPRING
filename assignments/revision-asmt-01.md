@@ -15,17 +15,22 @@ permalink: /assignments/revision-asmt-01/
 
 ## 과제 양식
 
-[revision-asmt-01-015-33-홍길동.md](https://github.com/DeepWrite/2025SPRING/raw/main/templates/revision-asmt-01-015-33-홍길동.md){: .btn .btn-primary }
+[eTL 과제함 (5차시) (Revision) [개선-01] 과제-01 수정본 제출함](https://myetl.snu.ac.kr/){: .btn .btn-primary }
 
+- 위 **양식을 다운로드**하여 작성.
 - **파일명**과 파일 **내용**에서 `015`, `33`, `홍길동`으로 작성된 부분은 각각 자신의 `반번호`, `배정연번(01에서 27사이의 두 자리 숫자)`, `이름` 으로 변경해야 한다. 
 - **작성 전**에 미리 `찾아바꾸기` 할 것을 권장함.
+- **개선(Revision) 과제의 경우**에는 nav_order 값을 **99**로 고정
 
 ## 마감 기한
+
+- 3주차 5차시 **해당 과제가 인클래스에서 수행된 당일 23:00**까지.
+
 
 ## 작성 예시
 
 - 제출 파일명: `revision-asmt-01-015-33-홍길동.md` 
-- `nav_order: 99` 변경하지 말 것.
+- `nav_order: 99` **변경하지 말 것**.
     - 이 값은 홈페이지에서 자신의 문서가 게시되는 순서를 결정함.
     - 대부분의 과제에서 `nav_order: 33`는 자신의 `배정연번`으로 수정 작성하지만,
     - **개선(Revision) 과제의 경우**에는 nav_order 값을 **99**로 고정한다. 즉, `nav_order: 99` (양식에 99로 입력된 값을 임의로 변경하지 않으면 됨.)
