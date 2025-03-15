@@ -14,6 +14,12 @@ permalink: /assignments/comment-01-asmt-01/
   
 - 비중: 5%
 
+## 마감 기한
+
+- 당일 <ins>**강좌 시작 후, 교수자가 지정한 시간으로부터 20분 이내**</ins>.
+- 코멘트 반영하여 즉시 수정안을 작성해야 하기 때문.
+- 미리 개인적으로 작성해 두어도 무방.
+
 ## 과제 양식
 
 [commment-01-015-33c-홍길동.md](https://github.com/DeepWrite/2025SPRING/raw/main/templates/commment-01-015-33c-홍길동.md){: .btn .btn-primary }
@@ -36,11 +42,6 @@ permalink: /assignments/comment-01-asmt-01/
   - 로 찾아바꾸기 하여야 함.
 
 - **작성 전**에 미리 `찾아바꾸기` 할 것을 권장.
-
-
-## 마감 기한
-
-- 당일 23:00까지.
 
 ## 작성 예시
 
