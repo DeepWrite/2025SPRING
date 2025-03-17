@@ -31,7 +31,7 @@ permalink: /assignments/asmt-02/
 
 ```
 ---
-title: 과제-02 단문 연습 015 33 홍길동 
+title: 015-33 홍길동 (과제-02) 
 layout: home
 nav_order: 33
 parent: 단문 연습
