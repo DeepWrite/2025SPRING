@@ -6,7 +6,7 @@ parent: 과제
 permalink: /assignments/revision-asmt-01/
 ---
 
-# (개선) 과제-01 요약 연습 수정하기
+# (개선) 과제-01 요약 연습 수정하기 (5차시)
 
 ## 과제 설명
 
