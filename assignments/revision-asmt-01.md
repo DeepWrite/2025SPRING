@@ -2,7 +2,7 @@
 title: (개선) 과제-01 요약 연습 수정
 layout: home
 nav_order: 4
-parent: 과제
+parent: 과제 제출 방법
 permalink: /assignments/revision-asmt-01/
 ---
 

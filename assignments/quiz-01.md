@@ -2,7 +2,7 @@
 title: Quiz-01 (1주차) 논제와 논증
 layout: home
 nav_order: 1
-parent: 과제
+parent: 과제 제출 방법
 permalink: /assignments/quiz-01/
 ---
 

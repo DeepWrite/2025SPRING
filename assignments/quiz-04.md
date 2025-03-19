@@ -2,7 +2,7 @@
 title: Quiz-04 (5주차) 논증의 유형
 layout: home
 nav_order: 30
-parent: 과제
+parent: 과제 제출 방법
 permalink: /assignments/quiz-04/
 ---
 

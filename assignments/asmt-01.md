@@ -2,7 +2,7 @@
 title: 과제-01 요약 연습
 layout: home
 nav_order: 2
-parent: 과제
+parent: 과제 제출 방법
 permalink: /assignments/asmt-01/
 ---
 

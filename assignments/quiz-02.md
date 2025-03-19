@@ -2,7 +2,7 @@
 title: Quiz-02 (3주차) 좋은 논증문, 쟁점, 그리고 딜레마
 layout: home
 nav_order: 10
-parent: 과제
+parent: 과제 제출 방법
 permalink: /assignments/quiz-02/
 ---
 
