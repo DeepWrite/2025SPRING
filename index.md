@@ -1,5 +1,5 @@
 ---
-title: Home
+title: DeepWrite Home
 layout: home
 description: "서울대학교 대학글쓰기2의 공식 강의자료 공유 및 학습 지원 사이트입니다."
 nav_order: 1
