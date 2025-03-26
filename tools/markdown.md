@@ -23,7 +23,6 @@ permalink: /tools/markdown/
 ## A second-level heading
 ### A third-level heading
 
-
 ## 2. 텍스트 스타일 지정
 
 주석 필드 및 `.md` 파일에서 굵게, 기울임꼴 또는 취소선 텍스트로 강조를 나타낼 수 있습니다.
