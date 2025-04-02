@@ -1,7 +1,7 @@
 ---
 title: 코멘트-04 과제-04에 대한 코멘트
 layout: home
-nav_order: 12
+nav_order: 22
 parent: 과제 제출 방법
 permalink: /assignments/comment-04-asmt-04/
 ---

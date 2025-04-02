@@ -1,7 +1,7 @@
 ---
 title: (개선) 과제-04 5-6단락 논증에세이 수정
 layout: home
-nav_order: 4
+nav_order: 23
 parent: 과제 제출 방법
 permalink: /assignments/revision-asmt-04/
 ---
