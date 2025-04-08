@@ -6,7 +6,7 @@ parent: 과제 제출 방법
 permalink: /assignments/revision-asmt-04/
 ---
 
-# (개선) 과제-04 5-6단락 논증에세이 수정하기 (12차시)
+# (개선) 과제-04 5-6단락 논증에세이 수정하기 (6주차 11차시)
 
 ## 과제 설명
 
@@ -14,7 +14,7 @@ permalink: /assignments/revision-asmt-04/
 
 ## 과제 양식
 
-[eTL 과제함 (12차시) (Revision) [개선-02] 과제-04 수정본 제출함](https://myetl.snu.ac.kr/){: .btn .btn-primary }
+[eTL 과제함 (11차시) (Revision) [개선-02] 과제-04 수정본 제출함](https://myetl.snu.ac.kr/){: .btn .btn-primary }
 
 - 위 과제함의 **양식을 다운로드**하여 작성.
 - **파일명**과 파일 **내용**에서 `015`, `33`, `홍길동`으로 작성된 부분은 각각 자신의 `반번호`, `배정연번(01에서 27사이의 두 자리 숫자)`, `이름` 으로 변경해야 한다. 
