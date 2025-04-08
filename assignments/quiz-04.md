@@ -6,11 +6,8 @@ parent: 과제 제출 방법
 permalink: /assignments/quiz-04/
 ---
 
-# Quiz-04
+# Quiz-04 (6주차) 논증의 유형
 
-- 마감: 
-- 내용:
-- 
 **6주차 플립드 러닝 강좌**
 
 ## 논증의 유형
