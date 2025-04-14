@@ -8,6 +8,12 @@ permalink: /theme-lectures/use-subject-I/
 
 # 논문에서 1인칭 주어 ‘나(I)’의 사용
 
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/acSrczXz26w?si=bqld5uvE1uTmxnCV&t=430" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div><br><br>
+
+(위 영상의 앞부분 결론 작성부분 강의는 [서론과 결론 작성법]({{site.baseurl}}/lectures/week05-09/) 참조.)  
+
 학술 논문에서 1인칭 주어 'I'의 사용 여부는 연구 분야, 출판물, 그리고 문화적 맥락에 따라 크게 달라질 수 있다. 일반적으로, 많은 학술 분야에서는 객관성을 유지하고 연구 결과의 일반화 가능성을 강조하기 위해 1인칭 사용을 피하도록 권장한다. 그러나 인문학이나 사회과학 분야 등에서는 연구자의 주관적 해석이나 분석이 중요한 역할을 할 때, 'I'나 'we'와 같은 1인칭 주어의 사용이 허용되거나 심지어 권장될 수 있다.
 
 이와 관련된 문헌을 찾는 것은 주제에 따라 매우 다양할 수 있으며, 연구 방법론이나 학술 글쓰기에 관한 책, 가이드, 논문에서 해당 논의를 찾아볼 수 있다. 예를 들어, APA (American Psychological Association) 스타일 가이드는 1인칭의 적절한 사용에 대한 지침을 제공하며, 이는 사회과학 분야에서 널리 적용된다. 다른 스타일 가이드나 학술 글쓰기에 관한 책들도 비슷한 지침을 제공할 수 있다.
