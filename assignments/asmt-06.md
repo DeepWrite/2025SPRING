@@ -1,12 +1,12 @@
 ---
-title: 과제-06 (조원별) 개조식 요약문 작성
+title: 과제-06 (조별) 개조식 요약문 작성
 layout: home
 nav_order: 42
 parent: 과제 제출 방법
 permalink: /assignments/asmt-06/
 ---
 
-# 과제-06 (조원별) 개조식 요약문 작성 (17차시)
+# 과제-06 (조별) 개조식 요약문 작성 (17차시)
 
 *(작성중)*
 
@@ -37,11 +37,11 @@ permalink: /assignments/asmt-06/
 title: 015-33 홍길동 (과제-06)
 layout: home
 nav_order: 33
-parent: 과제-06 (조원별) 개조식 요약문 작성
+parent: 과제-06 (조별) 개조식 요약문 작성
 permalink: /asmt-06/015-33
 ---
 
-# 과제-06 (조원별) 개조식 요약문 작성 015-33 홍길동 
+# 과제-06 (조별) 개조식 요약문 작성 015-33 홍길동 
 
 ## 
 
