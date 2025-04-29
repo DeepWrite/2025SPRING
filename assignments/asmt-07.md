@@ -12,7 +12,7 @@ permalink: /assignments/asmt-07/
 
 ## 과제 설명
 
-**8주차 (16차시) 개인별 논증 구조 작성하기**: [8주차 (16차시) 개인별 논증 구조 작성하기]({{site.baseurl}}/lectures/week08-16)
+**9주차 (18차시) 개인별 논증 구조 작성하기**: [9주차 (18차시) 개인별 논증 구조 작성하기]({{site.baseurl}}/lectures/week08-16)
 
 ## 과제 양식
 
