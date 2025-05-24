@@ -8,7 +8,73 @@ permalink: /asmt-08/015-33
 
 # (초고) 과제-08 기말과제 초고 작성하기 015-33 홍길동 
 
-(다음 예시는 작년 1학기에 대학글쓰기2 강좌를 수강했던 지리학과 소속 학생의 우수사례임을 밝혀둡니다.)
+- 본 양식의 예시 사례는 작년 1학기에 대학글쓰기2 강좌를 수강했던 지리학과 소속 학생의 사례임을 밝혀둡니다. 
+- 이 글은 다음 논증구조 최종안에 바탕을 두고 작성되었으니, 논증구조를 어떻게 초고로 발전시켜 나갈지에 관해 참고가 되길 바랍니다.
+- 과제 작성 시 이 세 줄의 설명 내용과 아래 논증구조 최종안은 **반드시 삭제**하십시오. 
+
+## (참고) 논증 구조 최종안
+
+<div style="border:1px solid #ddd; padding:15px; border-radius:5px; font-family: sans-serif;">
+  <ol>
+    <li>
+      <strong>전제:</strong> 생성형 인공지능 알고리즘은 독창적(original)인 결과물을 만들어낼 수 있다.
+      <ol>
+        <li><strong>논증</strong>
+          <ol>
+            <li><strong>세부전제:</strong> 독창적이기 위해서는 기존 작품과의 인과적 관계(그대로 베끼는 것)가 존재하지 않아야 한다. (Kronfeldner, 2018)</li>
+            <li><strong>세부전제:</strong> 기존 작품을 그대로 베꼈다면, 창작 시기가 더 빠른 작품들과 비교해 유사할 확률이 매우 낮은 특성이 유사하게 나타난다.</li>
+            <li><strong>세부전제:</strong> 생성형 인공지능 알고리즘은 확률적 알고리즘이므로 기존과 유사한 결과물을 만들어낼 확률이 낮다. (Goodfellow et al. 2020)
+              <ol>
+                <li><strong>세부전제:</strong> 확률적 알고리즘에는 확률분포를 따르는 두 종류의 확률변수가 있다: 확률분포의 모수(parameter), 랜덤 노이즈</li>
+                <li><strong>세부전제:</strong> 확률적 알고리즘의 출력값은 확률분포의 모수와 랜덤 노이즈에 따라 달라진다.</li>
+                <li><strong>세부전제:</strong> 연속형 확률분포에서 특정 값이 정확히 나올 확률은 0이다.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+
+    <li>
+      <strong>전제:</strong> 생성형 인공지능 알고리즘은 맥락적 가용성(workability)을 가진 결과물을 만들어낼 수 있다.
+      <ol>
+        <li><strong>논증</strong>
+          <ol>
+            <li><strong>세부전제:</strong> 생성형 인공지능 알고리즘이 만들어낸 결과물을 사람이 만들어낸 결과물과 구분하기 힘들 정도라면 그 결과물은 사용자가 원하는 맥락에서 사용될 수 있는 것이다. (MacCrimmon et al. 1994)</li>
+            <li><strong>세부전제:</strong> 생성형 인공지능 알고리즘이 만들어낸 결과물을 사람들이 만들어낸 결과물과 구분하기 힘든 경우가 많다. (Miller 2023 등)</li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+
+    <li>
+      <strong>전제:</strong> 어떠한 시스템이 독창적이고 맥락적으로 가용한 결과물을 만들어낼 수 있다면, 그 시스템은 창의적이다.
+      <ol>
+        <li><strong>논증</strong>
+          <ol>
+            <li><strong>세부전제:</strong> 창의적 시스템이 되는 필요충분조건은 그 시스템이 만들어낸 결과물이 창의적인 경우이다.</li>
+            <li><strong>세부전제:</strong> 창의적인 결과물이 되는 필요(충분)조건은 그 작품이 독창적이고 맥락적으로 가용한 경우이다.</li>
+          </ol>
+        </li>
+        <li><strong>예상 반론:</strong> 작품을 만들어낸 시스템이 특정한 의도나 주체성을 가지고 있지 않았다면, 결과물이 독창적이고 일정 수준 이상의 품질을 가지고 있다는 ‘평가’가 그 시스템의 몫으로 돌아갈 수 없다. (Gaut 2010)</li>
+        <li><strong>재반론:</strong> 귀속성(attributability)와 미래지향적 응답가능성(forward-looking answerability)의 측면에서 시스템의 행위주체성을 가정하지 않고도 오직 결과물을 통해 시스템의 창의성을 평가할 수 있다.
+          <ol>
+            <li><strong>세부전제 (귀속성):</strong> 행위주체성과 무관하게, 시스템이 만들어낸 결과물에 그 시스템의 성질이 반영되면 오직 결과물을 통해 시스템의 창의성이 평가될 수 있다.</li>
+            <li><strong>세부전제 (미래지향적 응답가능성):</strong> 행위주체성과 무관하게, 시스템이 스스로 만들어낸 결과물에 대한 평가를 바탕으로 결과물을 수정할 수 있다면 오직 결과물을 통해 시스템의 창의성이 평가될 수 있다. (양선숙 2021)</li>
+            <li><strong>보충:</strong> 재반론의 적용 가능 여부 검토
+              <ol>
+                <li>생성형 인공지능 알고리즘의 구조가 그 결과물에 영향을 미친다.</li>
+                <li>생성형 인공지능 알고리즘은 명령어를 통해 제3자가 지적한 부분을 수정할 수 있다.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+
+    <li><strong>결론:</strong> 생성형 인공지능 알고리즘은 창의적 시스템이다.</li>
+  </ol>
+</div>
 
 # 제목: 비-인간 창의적 시스템 논의: 생성형 인공지능 알고리즘을 중심으로
 
@@ -119,70 +185,6 @@ permalink: /asmt-08/015-33
 > Van Camp, Julie C. “Originality in Postmodern Appropriation Art.” The Journal of Arts Management, Law, and Society 36, no. 4 (January 2007): 247–58. https://doi.org/10.3200/JAML.36.4.247-258.
 >
 > Wyman, Patrick. The Verge: Reformation, Renaissance, and Forty Years That Shook the World. Hachette UK, 2021.
-
-## (참고) 논증 구조 최종안
-
-<div style="border:1px solid #ddd; padding:15px; border-radius:5px; font-family: sans-serif;">
-  <ol>
-    <li>
-      <strong>전제:</strong> 생성형 인공지능 알고리즘은 독창적(original)인 결과물을 만들어낼 수 있다.
-      <ol>
-        <li><strong>논증</strong>
-          <ol>
-            <li><strong>세부전제:</strong> 독창적이기 위해서는 기존 작품과의 인과적 관계(그대로 베끼는 것)가 존재하지 않아야 한다. (Kronfeldner, 2018)</li>
-            <li><strong>세부전제:</strong> 기존 작품을 그대로 베꼈다면, 창작 시기가 더 빠른 작품들과 비교해 유사할 확률이 매우 낮은 특성이 유사하게 나타난다.</li>
-            <li><strong>세부전제:</strong> 생성형 인공지능 알고리즘은 확률적 알고리즘이므로 기존과 유사한 결과물을 만들어낼 확률이 낮다. (Goodfellow et al. 2020)
-              <ol>
-                <li><strong>세부전제:</strong> 확률적 알고리즘에는 확률분포를 따르는 두 종류의 확률변수가 있다: 확률분포의 모수(parameter), 랜덤 노이즈</li>
-                <li><strong>세부전제:</strong> 확률적 알고리즘의 출력값은 확률분포의 모수와 랜덤 노이즈에 따라 달라진다.</li>
-                <li><strong>세부전제:</strong> 연속형 확률분포에서 특정 값이 정확히 나올 확률은 0이다.</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-      </ol>
-    </li>
-
-    <li>
-      <strong>전제:</strong> 생성형 인공지능 알고리즘은 맥락적 가용성(workability)을 가진 결과물을 만들어낼 수 있다.
-      <ol>
-        <li><strong>논증</strong>
-          <ol>
-            <li><strong>세부전제:</strong> 생성형 인공지능 알고리즘이 만들어낸 결과물을 사람이 만들어낸 결과물과 구분하기 힘들 정도라면 그 결과물은 사용자가 원하는 맥락에서 사용될 수 있는 것이다. (MacCrimmon et al. 1994)</li>
-            <li><strong>세부전제:</strong> 생성형 인공지능 알고리즘이 만들어낸 결과물을 사람들이 만들어낸 결과물과 구분하기 힘든 경우가 많다. (Miller 2023 등)</li>
-          </ol>
-        </li>
-      </ol>
-    </li>
-
-    <li>
-      <strong>전제:</strong> 어떠한 시스템이 독창적이고 맥락적으로 가용한 결과물을 만들어낼 수 있다면, 그 시스템은 창의적이다.
-      <ol>
-        <li><strong>논증</strong>
-          <ol>
-            <li><strong>세부전제:</strong> 창의적 시스템이 되는 필요충분조건은 그 시스템이 만들어낸 결과물이 창의적인 경우이다.</li>
-            <li><strong>세부전제:</strong> 창의적인 결과물이 되는 필요(충분)조건은 그 작품이 독창적이고 맥락적으로 가용한 경우이다.</li>
-          </ol>
-        </li>
-        <li><strong>예상 반론:</strong> 작품을 만들어낸 시스템이 특정한 의도나 주체성을 가지고 있지 않았다면, 결과물이 독창적이고 일정 수준 이상의 품질을 가지고 있다는 ‘평가’가 그 시스템의 몫으로 돌아갈 수 없다. (Gaut 2010)</li>
-        <li><strong>재반론:</strong> 귀속성(attributability)와 미래지향적 응답가능성(forward-looking answerability)의 측면에서 시스템의 행위주체성을 가정하지 않고도 오직 결과물을 통해 시스템의 창의성을 평가할 수 있다.
-          <ol>
-            <li><strong>세부전제 (귀속성):</strong> 행위주체성과 무관하게, 시스템이 만들어낸 결과물에 그 시스템의 성질이 반영되면 오직 결과물을 통해 시스템의 창의성이 평가될 수 있다.</li>
-            <li><strong>세부전제 (미래지향적 응답가능성):</strong> 행위주체성과 무관하게, 시스템이 스스로 만들어낸 결과물에 대한 평가를 바탕으로 결과물을 수정할 수 있다면 오직 결과물을 통해 시스템의 창의성이 평가될 수 있다. (양선숙 2021)</li>
-            <li><strong>보충:</strong> 재반론의 적용 가능 여부 검토
-              <ol>
-                <li>생성형 인공지능 알고리즘의 구조가 그 결과물에 영향을 미친다.</li>
-                <li>생성형 인공지능 알고리즘은 명령어를 통해 제3자가 지적한 부분을 수정할 수 있다.</li>
-              </ol>
-            </li>
-          </ol>
-        </li>
-      </ol>
-    </li>
-
-    <li><strong>결론:</strong> 생성형 인공지능 알고리즘은 창의적 시스템이다.</li>
-  </ol>
-</div>
 
 ## 미주 목록
 
