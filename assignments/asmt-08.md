@@ -30,7 +30,8 @@ permalink: /assignments/asmt-08/
 
 2. **미주 방식**: 인용 문헌의 정보를 미주로 제공하는 방식입니다. 이 경우 본문에는 `[^KEYWORD]`와 같이 표기하고, 하단에는 `[^KEYWORD]: 문헌 정보` 형식으로 서지사항을 기재합니다.
    - 예시: 필자는 이 문장의 끝에서 가우트의 문헌 정보를 미주 형식으로 제시하고 있다.[^Gaut2010]
-   [^Gaut2010]: Berys Gaut, “The Philosophy of Creativity.” Philosophy Compass 5, no. 12 (December 2010): 1034–46, p. 1040.
+  
+[^Gaut2010]: Berys Gaut, “The Philosophy of Creativity.” Philosophy Compass 5, no. 12 (December 2010): 1034–46, p. 1040.
 
   ```
    예시: 필자는 이 문장의 끝에서 가우트의 문헌 정보를 미주 형식으로 제시하고 있다.[^Gaut2010]
